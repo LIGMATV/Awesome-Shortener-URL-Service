@@ -5,7 +5,7 @@
 An simple list of Url Shorteners.
 
 ## Contributing
-Want contributing? Simply go to [Pull Request](https://github.com/LIGMATV/ShortStock/pulls) and make New Pull Request with Link of URL Shortener service you want to added. Im will simply manually added it to [index.html](https://github.com/LIGMATV/ShortStock/blob/main/index.html).
+Want contributing? Simply go to [New issue](https://github.com/LIGMATV/ShortStock/issues/new) and add Link of URL Shortener service you want to added. Im will simply manually added it to [index.html](https://github.com/LIGMATV/ShortStock/blob/main/index.html).
 
 ## What allowed
 Paid service without free plan was not allowed.
