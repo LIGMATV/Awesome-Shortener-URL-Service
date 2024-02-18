@@ -1,6 +1,7 @@
 # Awesome Shortener URL Service
 
-<img src="https://awesome.re/badge.svg" alt="Awesome">
+[![](https://awesome.re/badge.svg)](#)
+[![](https://img.shields.io/badge/ShortStock-AA0481)](https://ligmatv.github.io/Awesome-Shortener-URL-Service/)
 
 ## Free, no pricing
 
