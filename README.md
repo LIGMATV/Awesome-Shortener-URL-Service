@@ -1,7 +1,7 @@
 # Awesome Shortener URL Service
 
 [![](https://awesome.re/badge.svg)](#)
-[![](https://img.shields.io/badge/ShortStock-AA0481)](https://ligmatv.github.io/Awesome-Shortener-URL-Service/)
+[![](https://img.shields.io/badge/ShortStock-AA0481)](https://l-i.now.sh/shortstock)
 
 ## Free, no pricing
 
