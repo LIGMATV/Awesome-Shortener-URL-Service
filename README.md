@@ -56,6 +56,6 @@
 * [UrlHub](https://github.com/realodix/urlhub)  
 * [Kutt](https://kutt.it/)
 
-## But already "Awesome Url Shortener"?
+## But already [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener)?
 
 Im just want made my own, maybe more curated? :P
