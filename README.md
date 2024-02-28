@@ -1,4 +1,4 @@
-# Awesome Shortener URL Service
+# Awesome URL Shortener
 
 [![](https://awesome.re/badge.svg)](#)
 [![](https://img.shields.io/badge/ShortStock-AA0481)](https://l-i.now.sh/shortstock)
