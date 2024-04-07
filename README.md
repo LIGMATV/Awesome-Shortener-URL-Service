@@ -21,7 +21,6 @@
 * [Zero Width Shortener](https://zws.im/)  
 * [8bits](https://8bits.vercel.app/)  
 * [shwat.af](https://shawt.af/) ``⛔``  
-* [y.gy](https://app.y.gy/)  
 * [Maglit](https://maglit.me/)  
 * [tr1.in](https://tr1.in/)  
 * [nanoURL](https://nanourl.org/shorten/)  
@@ -29,8 +28,8 @@
 * [Kurze Links](https://kurzelinks.de/)  
 * [tinu.be](https://tinu.be/)  
 * [rip.to](https://rip.to/)  
-  
 
+  
 ## Free, include pricing
 
 * [Picsee](https://picsee.io/en)  
@@ -45,7 +44,8 @@
 * [Buffer](https://buffer.com/)  
 * [Switchy](https://www.switchy.io/)  
 * [Tinycc](https://tiny.cc/)  
-* [dub](https://dub.co/)  
+* [dub](https://dub.co/)
+* [y.gy](https://app.y.gy/)
   
 
 ## Self hosting
